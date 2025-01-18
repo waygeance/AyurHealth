@@ -153,8 +153,8 @@ Ensure you have the following installed:
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <img src="(https://github.com/waygeance/IIIT-K_AyurHealth/blob/c583665fdaef7e4f6963a7bd0e9f2146cc0dffa8/ScreenShots/WhatsApp%20Image%202025-01-18%20at%2011.14.07%20PM%20(1).jpeg)" alt="Screenshot 1" width="300" />
-    <img src="(https://github.com/waygeance/IIIT-K_AyurHealth/blob/c583665fdaef7e4f6963a7bd0e9f2146cc0dffa8/ScreenShots/WhatsApp%20Image%202025-01-18%20at%2011.14.07%20PM%20(1).jpeg)" alt="Screenshot 2" width="300" />
+    <img src="![hi](https://github.com/waygeance/IIIT-K_AyurHealth/blob/c583665fdaef7e4f6963a7bd0e9f2146cc0dffa8/ScreenShots/WhatsApp%20Image%202025-01-18%20at%2011.14.07%20PM%20(1).jpeg)" alt="Screenshot 1" width="300" />
+    <img src="![hi](https://github.com/waygeance/IIIT-K_AyurHealth/blob/c583665fdaef7e4f6963a7bd0e9f2146cc0dffa8/ScreenShots/WhatsApp%20Image%202025-01-18%20at%2011.14.07%20PM%20(1).jpeg)" alt="Screenshot 2" width="300" />
     <img src="path/to/screenshot3.png" alt="Screenshot 3" width="300" />
 </div>
 
