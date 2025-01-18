@@ -1,0 +1,25 @@
+.sign-inpage-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.sign-inpage-text1 {
+  display: inline-block;
+}
+ 
+.sign-inpage-text2 {
+  display: inline-block;
+}
+ 
+.sign-inpage-text3 {
+  display: inline-block;
+}
+ 
+.sign-inpage-text4 {
+  color: var(--dl-color-theme-accent1);
+  display: inline-block;
+}
