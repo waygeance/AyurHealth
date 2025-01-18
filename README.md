@@ -138,15 +138,14 @@ Ensure you have the following installed:
 
 ![Health Screen](https://github.com/waygeance/IIIT-K_AyurHealth/blob/5233267e32b4f467ac8656f568c881e31720272a/ScreenShots/Screenshot%20from%202025-01-18%2023-02-04.png)
 
-### Health Report Section
+### Webpages
 
 ![Health Reports](https://github.com/waygeance/IIIT-K_AyurHealth/blob/efb7f8d9d08679ae8443dc964a981e6074adf855/ScreenShots/Screenshot%20from%202025-01-18%2023-03-19.png)
 
-### Dietary Recommendations
+### Mobile App 
 
 ![Dietary Recommendations](https://github.com/waygeance/IIIT-K_AyurHealth/blob/c583665fdaef7e4f6963a7bd0e9f2146cc0dffa8/ScreenShots/WhatsApp%20Image%202025-01-18%20at%2011.14.07%20PM%20(1).jpeg) 
 
-### Reminder Setup
 ![](https://github.com/waygeance/IIIT-K_AyurHealth/blob/021ef960092af01e4eac2c18dddd3287a00f33f6/ScreenShots/WhatsApp%20Image%202025-01-18%20at%2011.14.06%20PM.jpeg)
 
 
