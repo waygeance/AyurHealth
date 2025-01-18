@@ -136,7 +136,7 @@ Ensure you have the following installed:
 
 ### Home Screen
 
-![Health Screen](ScreenShots/Screenshot from 2025-01-18 23-02-04.png)
+[![Health Screen](https://github.com/waygeance/IIIT-K_AyurHealth/blob/5233267e32b4f467ac8656f568c881e31720272a/ScreenShots/Screenshot%20from%202025-01-18%2023-02-04.png)
 
 ### Health Report Section
 
