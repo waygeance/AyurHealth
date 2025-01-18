@@ -136,7 +136,7 @@ Ensure you have the following installed:
 
 ### Home Screen
 
-ScreenShots/Screenshot from 2025-01-18 23-02-04.png
+![Health Screen](ScreenShots/Screenshot from 2025-01-18 23-02-04.png)
 
 ### Health Report Section
 
