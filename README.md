@@ -97,7 +97,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/ayurhealth.git
+   git clone [https://github.com/username/ayurhealth.git](https://github.com/waygeance/IIIT-K_AyurHealth.git)
    ```
 
 2. Navigate to the project directory:
