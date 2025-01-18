@@ -144,7 +144,7 @@ Ensure you have the following installed:
 
 ### Mobile App 
 
-![Dietary Recommendations](https://github.com/waygeance/IIIT-K_AyurHealth/blob/c583665fdaef7e4f6963a7bd0e9f2146cc0dffa8/ScreenShots/WhatsApp%20Image%202025-01-18%20at%2011.14.07%20PM%20(1).jpeg) 
+![Dietary Recommendations](waygeance/IIIT-K_AyurHealth/ScreenShots/app.jpeg) 
 
 ![](https://github.com/waygeance/IIIT-K_AyurHealth/blob/021ef960092af01e4eac2c18dddd3287a00f33f6/ScreenShots/WhatsApp%20Image%202025-01-18%20at%2011.14.06%20PM.jpeg)
 
