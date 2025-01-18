@@ -44,7 +44,6 @@ Our goal is to empower users to take charge of their health with tools that are 
 - **Custom Recommendations:** Based on your activity, dietary habits, and goals, AyurHealth provides actionable suggestions to improve your well-being.
 - **Trend Analysis:** Track your progress over time with visual charts and graphs.
 
-![Health Report Example](screenshots/health_report.png)
 
 ### 2. **Dietary Recommendations**
 
@@ -52,7 +51,6 @@ Our goal is to empower users to take charge of their health with tools that are 
 - **Dynamic Suggestions:** Receive updates based on seasonal changes and your current health status.
 - **Meal Planning:** Plan your meals for the week with suggestions aligned with your dietary goals.
 
-![Dietary Recommendations](screenshots/dietary_recommendations.png)
 
 ### 3. **Health Reminders**
 
@@ -60,7 +58,6 @@ Our goal is to empower users to take charge of their health with tools that are 
 - **Integration with Wearables:** Sync alerts with your fitness trackers and smartwatches for seamless notifications.
 - **Habit Tracking:** Monitor your adherence to daily health routines.
 
-![Health Reminders](screenshots/reminder_interface.png)
 
 ### 4. **AI-Powered Analysis**
 
@@ -68,7 +65,6 @@ Our goal is to empower users to take charge of their health with tools that are 
 - **Behavior Insights:** Analyzes patterns in your data to suggest proactive measures.
 - **Real-Time Feedback:** Get instant feedback on your health metrics.
 
-![AI Insights](screenshots/ai_insights.png)
 
 ---
 
@@ -101,7 +97,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/ayurhealth.git
+   git clone https://github.com/waygeance/IIIT-K_AyurHealth.git
    ```
 
 2. Navigate to the project directory:
@@ -140,19 +136,18 @@ Ensure you have the following installed:
 
 ### Home Screen
 
-![Home Screen](screenshots/home_screen.png)
+![Health Screen](https://github.com/waygeance/IIIT-K_AyurHealth/blob/5233267e32b4f467ac8656f568c881e31720272a/ScreenShots/Screenshot%20from%202025-01-18%2023-02-04.png)
 
-### Health Report Section
+### Webpages
 
-![Health Reports](screenshots/health_reports.png)
+![Health Reports](https://github.com/waygeance/IIIT-K_AyurHealth/blob/efb7f8d9d08679ae8443dc964a981e6074adf855/ScreenShots/Screenshot%20from%202025-01-18%2023-03-19.png)
 
-### Dietary Recommendations
+### Mobile App 
 
-![Dietary Recommendations](screenshots/dietary_recommendations.png)
+![Dietary Recommendations](https://github.com/waygeance/IIIT-K_AyurHealth/blob/88367dc63b0df1b8a2ef1a7d6ed31316ff42add6/ScreenShots/app.jpeg)
 
-### Reminder Setup
+![](https://github.com/waygeance/IIIT-K_AyurHealth/blob/021ef960092af01e4eac2c18dddd3287a00f33f6/ScreenShots/WhatsApp%20Image%202025-01-18%20at%2011.14.06%20PM.jpeg)
 
-![Reminder Setup](screenshots/reminder_setup.png)
 
 ---
 
