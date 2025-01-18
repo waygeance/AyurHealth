@@ -136,7 +136,7 @@ Ensure you have the following installed:
 
 ### Home Screen
 
-![Health Screen](https://github.com/waygeance/IIIT-K_AyurHealth/blob/5233267e32b4f467ac8656f568c881e31720272a/ScreenShots/Screenshot%20from%202025-01-18%2023-02-04.png)
+![Health Screen](https://github.com/waygeance/IIIT-K_AyurHealth/blob/c13b745c016a19bda3162704ef78f7bab41b981b/ScreenShots/Screenshot%20from%202025-01-19%2002-43-48.png)
 
 ### Webpages
 
