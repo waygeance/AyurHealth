@@ -136,11 +136,11 @@ Ensure you have the following installed:
 
 ### Home Screen
 
-[![Health Screen](https://github.com/waygeance/IIIT-K_AyurHealth/blob/5233267e32b4f467ac8656f568c881e31720272a/ScreenShots/Screenshot%20from%202025-01-18%2023-02-04.png)
+![Health Screen](https://github.com/waygeance/IIIT-K_AyurHealth/blob/5233267e32b4f467ac8656f568c881e31720272a/ScreenShots/Screenshot%20from%202025-01-18%2023-02-04.png)
 
 ### Health Report Section
 
-![Health Reports](screenshots/health_reports.png)
+![Health Reports](https://github.com/waygeance/IIIT-K_AyurHealth/blob/efb7f8d9d08679ae8443dc964a981e6074adf855/ScreenShots/Screenshot%20from%202025-01-18%2023-03-19.png)
 
 ### Dietary Recommendations
 
