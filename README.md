@@ -44,7 +44,6 @@ Our goal is to empower users to take charge of their health with tools that are 
 - **Custom Recommendations:** Based on your activity, dietary habits, and goals, AyurHealth provides actionable suggestions to improve your well-being.
 - **Trend Analysis:** Track your progress over time with visual charts and graphs.
 
-![Health Report Example](screenshots/health_report.png)
 
 ### 2. **Dietary Recommendations**
 
@@ -52,7 +51,6 @@ Our goal is to empower users to take charge of their health with tools that are 
 - **Dynamic Suggestions:** Receive updates based on seasonal changes and your current health status.
 - **Meal Planning:** Plan your meals for the week with suggestions aligned with your dietary goals.
 
-![Dietary Recommendations](screenshots/dietary_recommendations.png)
 
 ### 3. **Health Reminders**
 
@@ -60,7 +58,6 @@ Our goal is to empower users to take charge of their health with tools that are 
 - **Integration with Wearables:** Sync alerts with your fitness trackers and smartwatches for seamless notifications.
 - **Habit Tracking:** Monitor your adherence to daily health routines.
 
-![Health Reminders](screenshots/reminder_interface.png)
 
 ### 4. **AI-Powered Analysis**
 
@@ -68,7 +65,6 @@ Our goal is to empower users to take charge of their health with tools that are 
 - **Behavior Insights:** Analyzes patterns in your data to suggest proactive measures.
 - **Real-Time Feedback:** Get instant feedback on your health metrics.
 
-![AI Insights](screenshots/ai_insights.png)
 
 ---
 
@@ -140,7 +136,7 @@ Ensure you have the following installed:
 
 ### Home Screen
 
-![Home Screen](screenshots/home_screen.png)
+ScreenShots/Screenshot from 2025-01-18 23-02-04.png
 
 ### Health Report Section
 
